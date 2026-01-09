@@ -6,7 +6,7 @@
     {
       "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2026-01-08T19:44:43.870412+00:00","last_reported":"2026-01-08T19:44:43.870412+00:00","last_updated":"2026-01-08T19:44:43.870412+00:00","context":{"id":"01KEFJ7MTY4GZMHY5BAC1FGK0W","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"event.backup_automatic_backup","state":"unknown","attributes":{"event_types":["completed","failed","in_progress"],"event_type":null,"friendly_name":"Backup Automatic backup"},"last_changed":"2026-01-08T19:45:01.083408+00:00","last_reported":"2026-01-08T19:45:01.083726+00:00","last_updated":"2026-01-08T19:45:01.083408+00:00","context":{"id":"01KEFJ85MVNCV68YSFCT3Z2NY4","parent_id":null,"user_id":null}},
@@ -14,57 +14,57 @@
         "last_event_type": null,
         "last_event_attributes": null
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"person.mramorhome","state":"unknown","attributes":{"editable":true,"id":"mramorhome","device_trackers":[],"user_id":"29dc3b36ed904466a5eb861835a473cd","friendly_name":"MramorHome"},"last_changed":"2026-01-09T09:20:52.284639+00:00","last_reported":"2026-01-09T09:20:52.285023+00:00","last_updated":"2026-01-09T09:20:52.284639+00:00","context":{"id":"01KEH0Y1HWWTKZZQG380EHDKN5","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2026-01-09T09:21:10.916715+00:00","last_reported":"2026-01-09T09:21:10.917302+00:00","last_updated":"2026-01-09T09:21:10.916715+00:00","context":{"id":"01KEH0YKR4K4GGD6T3VBAQSX07","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"binary_sensor.zigbee2mqtt_bridge_connection_state","state":"on","attributes":{"device_class":"connectivity","friendly_name":"Zigbee2MQTT Bridge Connection state"},"last_changed":"2026-01-09T09:50:32.007893+00:00","last_reported":"2026-01-09T09:50:32.007893+00:00","last_updated":"2026-01-09T09:50:32.007893+00:00","context":{"id":"01KEH2MBJ76HN9CY728RGP92KD","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"binary_sensor.vorraum_eg_presence_melder_presence","state":"off","attributes":{"device_class":"occupancy","friendly_name":"Vorraum EG Presence Melder Belegung"},"last_changed":"2026-01-09T13:54:15.681399+00:00","last_reported":"2026-01-09T13:54:15.681399+00:00","last_updated":"2026-01-09T13:54:15.681399+00:00","context":{"id":"01KEHGJMG1WDA0R6X0HQV0AETK","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"binary_sensor.vorraum_eg_presence_melder_presence","state":"off","attributes":{"device_class":"occupancy","friendly_name":"Vorraum EG Presence Melder Belegung"},"last_changed":"2026-01-09T14:24:04.800925+00:00","last_reported":"2026-01-09T14:24:04.800925+00:00","last_updated":"2026-01-09T14:24:04.800925+00:00","context":{"id":"01KEHJ97P0RNBTYBPSWJR0VSS7","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"binary_sensor.vorraum_eg_presence_melder_pir_detection","state":"off","attributes":{"friendly_name":"Vorraum EG Presence Melder Pir detection"},"last_changed":"2026-01-09T13:58:01.662931+00:00","last_reported":"2026-01-09T13:58:01.662931+00:00","last_updated":"2026-01-09T13:58:01.662931+00:00","context":{"id":"01KEHGSH5YDEBG174C89PH6D30","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"binary_sensor.vorraum_eg_presence_melder_pir_detection","state":"off","attributes":{"friendly_name":"Vorraum EG Presence Melder Pir detection"},"last_changed":"2026-01-09T14:27:55.402101+00:00","last_reported":"2026-01-09T14:27:55.402101+00:00","last_updated":"2026-01-09T14:27:55.402101+00:00","context":{"id":"01KEHJG8WAPSHQGM0C6P04CKKZ","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.zigbee2mqtt_bridge_restart","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Zigbee2MQTT Bridge Restart"},"last_changed":"2026-01-09T09:50:32.008715+00:00","last_reported":"2026-01-09T09:50:32.008715+00:00","last_updated":"2026-01-09T09:50:32.008715+00:00","context":{"id":"01KEH2MBJ8N02QW4C1P58RTYTZ","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.vorraum_eg_presence_melder_spatial_learning","state":"unknown","attributes":{"friendly_name":"Vorraum EG Presence Melder Spatial learning"},"last_changed":"2026-01-09T09:50:32.008368+00:00","last_reported":"2026-01-09T09:50:32.008368+00:00","last_updated":"2026-01-09T09:50:32.008368+00:00","context":{"id":"01KEH2MBJ8YAY2V6HTN8RSHTWY","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.vorraum_eg_presence_melder_restart_device","state":"unknown","attributes":{"friendly_name":"Vorraum EG Presence Melder Restart device"},"last_changed":"2026-01-09T09:50:32.008222+00:00","last_reported":"2026-01-09T09:50:32.008222+00:00","last_updated":"2026-01-09T09:50:32.008222+00:00","context":{"id":"01KEH2MBJ8PGHVB7KQ7GB5MKQF","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.vorraum_eg_presence_melder_identify","state":"unknown","attributes":{"device_class":"identify","friendly_name":"Vorraum EG Presence Melder Identifizieren"},"last_changed":"2026-01-09T09:50:32.007738+00:00","last_reported":"2026-01-09T09:50:32.007738+00:00","last_updated":"2026-01-09T09:50:32.007738+00:00","context":{"id":"01KEH2MBJ7TZAC52A7ZET1R5YT","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.vorraum_eg_presence_melder_track_target_distance","state":"unknown","attributes":{"friendly_name":"Vorraum EG Presence Melder Track target distance"},"last_changed":"2026-01-09T09:50:32.008343+00:00","last_reported":"2026-01-09T09:50:32.008343+00:00","last_updated":"2026-01-09T09:50:32.008343+00:00","context":{"id":"01KEH2MBJ8B8MQQ1ETHXFXJ9DV","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_absence_delay_timer","state":"10","attributes":{"min":10.0,"max":300.0,"step":5.0,"mode":"auto","unit_of_measurement":"sec","friendly_name":"Vorraum EG Presence Melder Absence delay timer"},"last_changed":"2026-01-09T09:51:07.025286+00:00","last_reported":"2026-01-09T09:51:07.025286+00:00","last_updated":"2026-01-09T09:51:07.025286+00:00","context":{"id":"01KEH2NDRH6WDMGQ6QN5CFYP92","parent_id":null,"user_id":null}},
@@ -75,7 +75,7 @@
         "native_unit_of_measurement": "sec",
         "native_value": 10
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_pir_detection_interval","state":"30","attributes":{"min":2.0,"max":300.0,"step":1.0,"mode":"auto","unit_of_measurement":"sec","friendly_name":"Vorraum EG Presence Melder Pir detection interval"},"last_changed":"2026-01-09T09:51:07.025886+00:00","last_reported":"2026-01-09T09:51:07.025886+00:00","last_updated":"2026-01-09T09:51:07.025886+00:00","context":{"id":"01KEH2NDRHJBSN1W7XQXDVENC9","parent_id":null,"user_id":null}},
@@ -86,7 +86,7 @@
         "native_unit_of_measurement": "sec",
         "native_value": 30
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_temp_and_humidity_sampling_period","state":"600","attributes":{"min":0.5,"max":3600.0,"step":0.5,"mode":"auto","unit_of_measurement":"sec","friendly_name":"Vorraum EG Presence Melder Temp and humidity sampling period"},"last_changed":"2026-01-09T09:51:07.025379+00:00","last_reported":"2026-01-09T09:51:07.025379+00:00","last_updated":"2026-01-09T09:51:07.025379+00:00","context":{"id":"01KEH2NDRH29M5QQEZHHYX7FWH","parent_id":null,"user_id":null}},
@@ -97,7 +97,7 @@
         "native_unit_of_measurement": "sec",
         "native_value": 600
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_temp_reporting_interval","state":"3600","attributes":{"min":600.0,"max":3600.0,"step":600.0,"mode":"auto","unit_of_measurement":"sec","friendly_name":"Vorraum EG Presence Melder Temp reporting interval"},"last_changed":"2026-01-09T09:51:07.025752+00:00","last_reported":"2026-01-09T09:51:07.025752+00:00","last_updated":"2026-01-09T09:51:07.025752+00:00","context":{"id":"01KEH2NDRHPTHVTB54Y9FHSEB2","parent_id":null,"user_id":null}},
@@ -108,7 +108,7 @@
         "native_unit_of_measurement": "sec",
         "native_value": 3600
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_temp_reporting_threshold","state":"1","attributes":{"min":0.2,"max":3.0,"step":0.1,"mode":"auto","unit_of_measurement":"°C","friendly_name":"Vorraum EG Presence Melder Temp reporting threshold"},"last_changed":"2026-01-09T09:51:07.025650+00:00","last_reported":"2026-01-09T09:51:07.025650+00:00","last_updated":"2026-01-09T09:51:07.025650+00:00","context":{"id":"01KEH2NDRH3P00V6CXTPBJ0MDG","parent_id":null,"user_id":null}},
@@ -119,7 +119,7 @@
         "native_unit_of_measurement": "°C",
         "native_value": 1
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_humidity_reporting_interval","state":"3600","attributes":{"min":600.0,"max":3600.0,"step":600.0,"mode":"auto","unit_of_measurement":"sec","friendly_name":"Vorraum EG Presence Melder Humidity reporting interval"},"last_changed":"2026-01-09T09:51:07.025726+00:00","last_reported":"2026-01-09T09:51:07.025726+00:00","last_updated":"2026-01-09T09:51:07.025726+00:00","context":{"id":"01KEH2NDRH3YHBQ890XNSNWFDB","parent_id":null,"user_id":null}},
@@ -130,7 +130,7 @@
         "native_unit_of_measurement": "sec",
         "native_value": 3600
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_humidity_reporting_threshold","state":"unknown","attributes":{"min":2.0,"max":10.0,"step":0.5,"mode":"auto","unit_of_measurement":"%","friendly_name":"Vorraum EG Presence Melder Humidity reporting threshold"},"last_changed":"2026-01-09T09:50:32.008433+00:00","last_reported":"2026-01-09T09:50:32.008433+00:00","last_updated":"2026-01-09T09:50:32.008433+00:00","context":{"id":"01KEH2MBJ8Q6R122X8S8K56Q14","parent_id":null,"user_id":null}},
@@ -141,7 +141,7 @@
         "native_unit_of_measurement": "%",
         "native_value": null
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_light_sampling_period","state":"10","attributes":{"min":0.5,"max":3600.0,"step":0.5,"mode":"auto","unit_of_measurement":"sec","friendly_name":"Vorraum EG Presence Melder Light sampling period"},"last_changed":"2026-01-09T09:51:07.025913+00:00","last_reported":"2026-01-09T09:51:07.025913+00:00","last_updated":"2026-01-09T09:51:07.025913+00:00","context":{"id":"01KEH2NDRH3Z4Q92ESBF4WNHJX","parent_id":null,"user_id":null}},
@@ -152,7 +152,7 @@
         "native_unit_of_measurement": "sec",
         "native_value": 10
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_light_reporting_interval","state":"3600","attributes":{"min":20.0,"max":3600.0,"step":20.0,"mode":"auto","unit_of_measurement":"sec","friendly_name":"Vorraum EG Presence Melder Light reporting interval"},"last_changed":"2026-01-09T09:51:07.025517+00:00","last_reported":"2026-01-09T09:51:07.025517+00:00","last_updated":"2026-01-09T09:51:07.025517+00:00","context":{"id":"01KEH2NDRHDZP84XQBBQSNQ9SK","parent_id":null,"user_id":null}},
@@ -163,7 +163,7 @@
         "native_unit_of_measurement": "sec",
         "native_value": 3600
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_light_reporting_threshold","state":"15","attributes":{"min":3.0,"max":20.0,"step":0.5,"mode":"auto","unit_of_measurement":"%","friendly_name":"Vorraum EG Presence Melder Light reporting threshold"},"last_changed":"2026-01-09T09:51:07.025408+00:00","last_reported":"2026-01-09T09:51:07.025408+00:00","last_updated":"2026-01-09T09:51:07.025408+00:00","context":{"id":"01KEH2NDRH2V7VSVKQ79MTQYAB","parent_id":null,"user_id":null}},
@@ -174,7 +174,7 @@
         "native_unit_of_measurement": "%",
         "native_value": 15
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"number.vorraum_eg_presence_melder_detection_range","state":"16777215","attributes":{"min":0.0,"max":16777215.0,"step":1.0,"mode":"auto","friendly_name":"Vorraum EG Presence Melder Detection range"},"last_changed":"2026-01-09T09:51:07.024941+00:00","last_reported":"2026-01-09T09:51:07.024941+00:00","last_updated":"2026-01-09T09:51:07.024941+00:00","context":{"id":"01KEH2NDRGVZMT1NJZP1YJYM3H","parent_id":null,"user_id":null}},
@@ -185,47 +185,47 @@
         "native_unit_of_measurement": null,
         "native_value": 16777215
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.zigbee2mqtt_bridge_log_level","state":"info","attributes":{"options":["error","warning","info","debug"],"friendly_name":"Zigbee2MQTT Bridge Log level"},"last_changed":"2026-01-09T09:50:32.010935+00:00","last_reported":"2026-01-09T09:50:32.010935+00:00","last_updated":"2026-01-09T09:50:32.010935+00:00","context":{"id":"01KEH2MBJA91KW8GD372E1EJYX","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.vorraum_eg_presence_melder_motion_sensitivity","state":"medium","attributes":{"options":["low","medium","high"],"icon":"mdi:tune","friendly_name":"Vorraum EG Presence Melder Motion sensitivity"},"last_changed":"2026-01-09T09:51:07.025776+00:00","last_reported":"2026-01-09T09:51:07.025776+00:00","last_updated":"2026-01-09T09:51:07.025776+00:00","context":{"id":"01KEH2NDRHMQY7K32Y0MN44ZPR","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.vorraum_eg_presence_melder_presence_detection_options","state":"both","attributes":{"options":["both","mmwave","pir"],"friendly_name":"Vorraum EG Presence Melder Presence detection options"},"last_changed":"2026-01-09T09:51:07.024836+00:00","last_reported":"2026-01-09T09:51:07.024836+00:00","last_updated":"2026-01-09T09:51:07.024836+00:00","context":{"id":"01KEH2NDRGX0HW40YD8E6MQYC3","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.vorraum_eg_presence_melder_temp_and_humidity_sampling","state":"low","attributes":{"options":["off","low","medium","high","custom"],"friendly_name":"Vorraum EG Presence Melder Temp and humidity sampling"},"last_changed":"2026-01-09T09:51:07.025827+00:00","last_reported":"2026-01-09T09:51:07.025827+00:00","last_updated":"2026-01-09T09:51:07.025827+00:00","context":{"id":"01KEH2NDRHM91FXYZP8C7R00BB","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.vorraum_eg_presence_melder_temp_reporting_mode","state":"threshold and interval","attributes":{"options":["threshold","reporting interval","threshold and interval"],"friendly_name":"Vorraum EG Presence Melder Temp reporting mode"},"last_changed":"2026-01-09T09:51:07.025343+00:00","last_reported":"2026-01-09T09:51:07.025343+00:00","last_updated":"2026-01-09T09:51:07.025343+00:00","context":{"id":"01KEH2NDRHF1442QZ5PJWJYWTS","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.vorraum_eg_presence_melder_humidity_report_mode","state":"threshold and interval","attributes":{"options":["threshold","reporting interval","threshold and interval"],"friendly_name":"Vorraum EG Presence Melder Humidity report mode"},"last_changed":"2026-01-09T09:51:07.025699+00:00","last_reported":"2026-01-09T09:51:07.025699+00:00","last_updated":"2026-01-09T09:51:07.025699+00:00","context":{"id":"01KEH2NDRHZYHKPMMYKEJTF7SB","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.vorraum_eg_presence_melder_light_sampling","state":"low","attributes":{"options":["off","low","medium","high","custom"],"friendly_name":"Vorraum EG Presence Melder Light sampling"},"last_changed":"2026-01-09T09:51:07.025676+00:00","last_reported":"2026-01-09T09:51:07.025676+00:00","last_updated":"2026-01-09T09:51:07.025676+00:00","context":{"id":"01KEH2NDRHVKXF3FCMYTH1SBVQ","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"select.vorraum_eg_presence_melder_light_report_mode","state":"threshold and interval","attributes":{"options":["threshold","reporting interval","threshold and interval"],"friendly_name":"Vorraum EG Presence Melder Light report mode"},"last_changed":"2026-01-09T09:51:07.024753+00:00","last_reported":"2026-01-09T09:51:07.024753+00:00","last_updated":"2026-01-09T09:51:07.024753+00:00","context":{"id":"01KEH2NDRGADN9W71WSY1E50MC","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"sensor.zigbee2mqtt_bridge_version","state":"2.7.2","attributes":{"icon":"mdi:zigbee","friendly_name":"Zigbee2MQTT Bridge Version"},"last_changed":"2026-01-09T09:50:32.010819+00:00","last_reported":"2026-01-09T09:50:32.010819+00:00","last_updated":"2026-01-09T09:50:32.010819+00:00","context":{"id":"01KEH2MBJAPZ5ADS768BVSRM8M","parent_id":null,"user_id":null}},
@@ -233,7 +233,7 @@
         "native_value": "2.7.2",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"sensor.vorraum_eg_presence_melder_battery","state":"100","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","friendly_name":"Vorraum EG Presence Melder Batterie"},"last_changed":"2026-01-09T11:50:38.502091+00:00","last_reported":"2026-01-09T11:50:38.502091+00:00","last_updated":"2026-01-09T11:50:38.502091+00:00","context":{"id":"01KEH9G956BT01TGQH01N0CG33","parent_id":null,"user_id":null}},
@@ -241,7 +241,7 @@
         "native_value": "100",
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"sensor.vorraum_eg_presence_melder_voltage","state":"3014","attributes":{"state_class":"measurement","unit_of_measurement":"mV","device_class":"voltage","friendly_name":"Vorraum EG Presence Melder Spannung"},"last_changed":"2026-01-09T13:50:45.699670+00:00","last_reported":"2026-01-09T13:50:45.699670+00:00","last_updated":"2026-01-09T13:50:45.699670+00:00","context":{"id":"01KEHGC7E3KN947VJ2HYFJ5CV3","parent_id":null,"user_id":null}},
@@ -249,41 +249,41 @@
         "native_value": "3014",
         "native_unit_of_measurement": "mV"
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"sensor.vorraum_eg_presence_melder_illuminance","state":"10","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"Vorraum EG Presence Melder Beleuchtungsstärke"},"last_changed":"2026-01-09T13:58:08.661617+00:00","last_reported":"2026-01-09T13:58:08.661617+00:00","last_updated":"2026-01-09T13:58:08.661617+00:00","context":{"id":"01KEHGSR0NN8718NXW044WZ1JN","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.vorraum_eg_presence_melder_illuminance","state":"6","attributes":{"state_class":"measurement","unit_of_measurement":"lx","device_class":"illuminance","friendly_name":"Vorraum EG Presence Melder Beleuchtungsstärke"},"last_changed":"2026-01-09T14:27:34.534673+00:00","last_reported":"2026-01-09T14:27:34.534673+00:00","last_updated":"2026-01-09T14:27:34.534673+00:00","context":{"id":"01KEHJFMG6YJEKPKJ6AG98ANTR","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "10",
+        "native_value": "6",
         "native_unit_of_measurement": "lx"
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"sensor.vorraum_eg_presence_melder_humidity","state":"34.54","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"humidity","friendly_name":"Vorraum EG Presence Melder Luftfeuchtigkeit"},"last_changed":"2026-01-09T13:18:45.595100+00:00","last_reported":"2026-01-09T13:18:45.595100+00:00","last_updated":"2026-01-09T13:18:45.595100+00:00","context":{"id":"01KEHEHMAVM8N4E8TX7TJRRRX3","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.vorraum_eg_presence_melder_humidity","state":"35","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"humidity","friendly_name":"Vorraum EG Presence Melder Luftfeuchtigkeit"},"last_changed":"2026-01-09T14:18:45.586043+00:00","last_reported":"2026-01-09T14:18:45.586043+00:00","last_updated":"2026-01-09T14:18:45.586043+00:00","context":{"id":"01KEHHZFYJ9YJ9X7ER2X640WDR","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "34.54",
+        "native_value": "35",
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"switch.zigbee2mqtt_bridge_permit_join","state":"off","attributes":{"icon":"mdi:human-greeting-proximity","friendly_name":"Zigbee2MQTT Bridge Permit join"},"last_changed":"2026-01-09T09:50:35.542485+00:00","last_reported":"2026-01-09T09:50:35.542485+00:00","last_updated":"2026-01-09T09:50:35.542485+00:00","context":{"id":"01KEH2MF0PSFQTJNMFESJFTZRS","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"sensor.vorraum_eg_presence_melder_temperature","state":"24.08","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"Vorraum EG Presence Melder Temperatur"},"last_changed":"2026-01-09T13:18:45.769143+00:00","last_reported":"2026-01-09T13:18:45.769143+00:00","last_updated":"2026-01-09T13:18:45.769143+00:00","context":{"id":"01KEHEHMG9SBQ25FRWPHP78M52","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.vorraum_eg_presence_melder_temperature","state":"23.68","attributes":{"state_class":"measurement","unit_of_measurement":"°C","device_class":"temperature","friendly_name":"Vorraum EG Presence Melder Temperatur"},"last_changed":"2026-01-09T14:17:18.037302+00:00","last_reported":"2026-01-09T14:17:18.037302+00:00","last_updated":"2026-01-09T14:17:18.037302+00:00","context":{"id":"01KEHHWTENSR81CYJT7AH88630","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": "24.08",
+        "native_value": "23.68",
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"switch.vorraum_eg_presence_melder_ai_interference_source_selfidentification","state":"off","attributes":{"friendly_name":"Vorraum EG Presence Melder Ai interference source selfidentification"},"last_changed":"2026-01-09T09:51:07.024971+00:00","last_reported":"2026-01-09T09:51:07.024971+00:00","last_updated":"2026-01-09T09:51:07.024971+00:00","context":{"id":"01KEH2NDRG6W5YGBQR6YC8WTX3","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"sensor.vorraum_eg_presence_melder_target_distance","state":"0","attributes":{"unit_of_measurement":"m","friendly_name":"Vorraum EG Presence Melder Target distance"},"last_changed":"2026-01-09T09:51:07.025558+00:00","last_reported":"2026-01-09T09:51:07.025558+00:00","last_updated":"2026-01-09T09:51:07.025558+00:00","context":{"id":"01KEH2NDRHTBBEAMX04MC5211D","parent_id":null,"user_id":null}},
@@ -291,12 +291,12 @@
         "native_value": "0",
         "native_unit_of_measurement": "m"
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"switch.vorraum_eg_presence_melder_ai_sensitivity_adaptive","state":"on","attributes":{"friendly_name":"Vorraum EG Presence Melder Ai sensitivity adaptive"},"last_changed":"2026-01-09T09:51:07.024890+00:00","last_reported":"2026-01-09T09:51:07.024890+00:00","last_updated":"2026-01-09T09:51:07.024890+00:00","context":{"id":"01KEH2NDRG24NY13DVNPX9GQPP","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"sensor.vorraum_eg_presence_melder_detection_range_composite","state":"{'detection_range_0': True, 'detection_range_1': True, 'detection_range_10': True, 'detection_range_11': True, 'detection_range_12': True, 'detection_range_13': True, 'detection_range_14': True, 'detection_range_15': True, 'detection_range_16': True, 'de","attributes":{"friendly_name":"Vorraum EG Presence Melder Detection range composite"},"last_changed":"2026-01-09T09:51:07.025855+00:00","last_reported":"2026-01-09T09:51:07.025855+00:00","last_updated":"2026-01-09T09:51:07.025855+00:00","context":{"id":"01KEH2NDRH2VFV4H4C6EHY06B5","parent_id":null,"user_id":null}},
@@ -304,102 +304,107 @@
         "native_value": "{'detection_range_0': True, 'detection_range_1': True, 'detection_range_10': True, 'detection_range_11': True, 'detection_range_12': True, 'detection_range_13': True, 'detection_range_14': True, 'detection_range_15': True, 'detection_range_16': True, 'de",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"switch.vorraum_eg_presence_melder_led_disabled_night","state":"off","attributes":{"icon":"mdi:led-off","friendly_name":"Vorraum EG Presence Melder Led disabled night"},"last_changed":"2026-01-09T09:51:07.026130+00:00","last_reported":"2026-01-09T09:51:07.026130+00:00","last_updated":"2026-01-09T09:51:07.026130+00:00","context":{"id":"01KEH2NDRJAYPGC4T1ZRQ4P5TS","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"update.vorraum_eg_presence_melder","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"-1","in_progress":false,"latest_version":"-1","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://github.com/Koenkk/zigbee2mqtt/raw/master/images/logo.png","friendly_name":"Vorraum EG Presence Melder","supported_features":5},"last_changed":"2026-01-09T09:51:07.026075+00:00","last_reported":"2026-01-09T09:51:07.026075+00:00","last_updated":"2026-01-09T09:51:07.026075+00:00","context":{"id":"01KEH2NDRJ0PJT5Q9SYJ10CG15","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.wasserspender_neu_starten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Wasserspender Neu starten"},"last_changed":"2026-01-09T11:47:57.250136+00:00","last_reported":"2026-01-09T11:59:00.055690+00:00","last_updated":"2026-01-09T11:47:57.250136+00:00","context":{"id":"01KEH9BBP2N100KN6FCCMJRGHE","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"update.wasserspender_firmware","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"1.7.1","in_progress":false,"latest_version":"1.7.1","release_summary":null,"release_url":"https://shelly-api-docs.shelly.cloud/gen2/changelog/","skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/shelly/icon.png","friendly_name":"Wasserspender Firmware","supported_features":5},"last_changed":"2026-01-09T11:47:57.268546+00:00","last_reported":"2026-01-09T11:59:00.055906+00:00","last_updated":"2026-01-09T11:47:57.268546+00:00","context":{"id":"01KEH9BBPMH70941YSP68JSXWE","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.ladestation_rechts_neu_starten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Ladestation Rechts Neu starten"},"last_changed":"2026-01-09T13:03:13.177001+00:00","last_reported":"2026-01-09T13:14:43.838491+00:00","last_updated":"2026-01-09T13:03:13.177001+00:00","context":{"id":"01KEHDN5RS8F4J6J3JVMSYF1G2","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.trockner_neu_starten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Trockner Neu starten"},"last_changed":"2026-01-09T13:08:41.186476+00:00","last_reported":"2026-01-09T13:14:43.484712+00:00","last_updated":"2026-01-09T13:08:41.186476+00:00","context":{"id":"01KEHDZ6327JVG8ZKE9YD8Q9DM","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.steckdose_luftbefeuchter_neu_starten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Steckdose_Luftbefeuchter Neu starten"},"last_changed":"2026-01-09T13:10:23.279035+00:00","last_reported":"2026-01-09T13:14:37.987347+00:00","last_updated":"2026-01-09T13:10:23.279035+00:00","context":{"id":"01KEHE29SF2GC2TC4T27TXD8D4","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.ladestation_links_neu_starten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Ladestation Links Neu starten"},"last_changed":"2026-01-09T13:10:53.564682+00:00","last_reported":"2026-01-09T13:14:37.251847+00:00","last_updated":"2026-01-09T13:10:53.564682+00:00","context":{"id":"01KEHE37BW3XMMAWR8TWYAG6JY","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.steckerleiste_neu_starten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Steckerleiste Neu starten"},"last_changed":"2026-01-09T13:12:33.985592+00:00","last_reported":"2026-01-09T13:14:00.132406+00:00","last_updated":"2026-01-09T13:12:33.985592+00:00","context":{"id":"01KEHE69E1E25JKDHW79JTDBXQ","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"update.steckerleiste_firmware","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"1.7.99-powerstripg4prod1","in_progress":false,"latest_version":"1.7.99-powerstripg4prod1","release_summary":null,"release_url":"https://shelly-api-docs.shelly.cloud/gen2/changelog/","skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/shelly/icon.png","friendly_name":"Steckerleiste Firmware","supported_features":5},"last_changed":"2026-01-09T13:12:33.986069+00:00","last_reported":"2026-01-09T13:14:00.132425+00:00","last_updated":"2026-01-09T13:12:33.986069+00:00","context":{"id":"01KEHE69E26D2M2RXP64KFHGCS","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.home_assistant_supervisor_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"2026.01.0","in_progress":false,"latest_version":"2026.01.0","release_summary":null,"release_url":"https://github.com/home-assistant/supervisor/releases/tag/2026.01.0","skipped_version":null,"title":"Home Assistant Supervisor","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/hassio/icon.png","friendly_name":"Home Assistant Supervisor Update","supported_features":1},"last_changed":"2026-01-09T13:35:01.003855+00:00","last_reported":"2026-01-09T13:40:01.081519+00:00","last_updated":"2026-01-09T13:35:01.003855+00:00","context":{"id":"01KEHFFCWB5J3VPS427Y26K41F","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.home_assistant_supervisor_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"2026.01.0","in_progress":false,"latest_version":"2026.01.0","release_summary":null,"release_url":"https://github.com/home-assistant/supervisor/releases/tag/2026.01.0","skipped_version":null,"title":"Home Assistant Supervisor","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/hassio/icon.png","friendly_name":"Home Assistant Supervisor Update","supported_features":1},"last_changed":"2026-01-09T14:15:01.079510+00:00","last_reported":"2026-01-09T14:25:00.766995+00:00","last_updated":"2026-01-09T14:15:01.079510+00:00","context":{"id":"01KEHHRMPQTQRV3939QNAPBYN0","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.home_assistant_core_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2026.1.0","in_progress":false,"latest_version":"2026.1.0","release_summary":null,"release_url":"https://www.home-assistant.io/latest-release-notes/","skipped_version":null,"title":"Home Assistant Core","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Core Update","supported_features":15},"last_changed":"2026-01-09T13:35:01.004043+00:00","last_reported":"2026-01-09T13:40:01.081582+00:00","last_updated":"2026-01-09T13:35:01.004043+00:00","context":{"id":"01KEHFFCWCQ56H631RJ42YSJ5K","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.home_assistant_core_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2026.1.0","in_progress":false,"latest_version":"2026.1.0","release_summary":null,"release_url":"https://www.home-assistant.io/latest-release-notes/","skipped_version":null,"title":"Home Assistant Core","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Core Update","supported_features":15},"last_changed":"2026-01-09T14:15:01.079711+00:00","last_reported":"2026-01-09T14:25:00.767059+00:00","last_updated":"2026-01-09T14:15:01.079711+00:00","context":{"id":"01KEHHRMPQK644BCQYK7F1AT2J","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.matter_server_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"8.1.2","in_progress":false,"latest_version":"8.1.2","release_summary":null,"release_url":null,"skipped_version":null,"title":"Matter Server","update_percentage":null,"entity_picture":"/api/hassio/addons/core_matter_server/icon","friendly_name":"Matter Server Update","supported_features":29},"last_changed":"2026-01-09T13:35:01.004190+00:00","last_reported":"2026-01-09T13:40:01.081614+00:00","last_updated":"2026-01-09T13:35:01.004190+00:00","context":{"id":"01KEHFFCWCCR73APBKPH2AE8SG","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.matter_server_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"8.1.2","in_progress":false,"latest_version":"8.1.2","release_summary":null,"release_url":null,"skipped_version":null,"title":"Matter Server","update_percentage":null,"entity_picture":"/api/hassio/addons/core_matter_server/icon","friendly_name":"Matter Server Update","supported_features":29},"last_changed":"2026-01-09T14:15:01.079863+00:00","last_reported":"2026-01-09T14:25:00.767090+00:00","last_updated":"2026-01-09T14:15:01.079863+00:00","context":{"id":"01KEHHRMPQ0XVPBY9GXWHGXAG1","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.mosquitto_broker_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"6.5.2","in_progress":false,"latest_version":"6.5.2","release_summary":null,"release_url":null,"skipped_version":null,"title":"Mosquitto broker","update_percentage":null,"entity_picture":"/api/hassio/addons/core_mosquitto/icon","friendly_name":"Mosquitto broker Update","supported_features":29},"last_changed":"2026-01-09T13:35:01.004320+00:00","last_reported":"2026-01-09T13:40:01.081632+00:00","last_updated":"2026-01-09T13:35:01.004320+00:00","context":{"id":"01KEHFFCWCBDBHCPNB6D2CMJSQ","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.mosquitto_broker_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"6.5.2","in_progress":false,"latest_version":"6.5.2","release_summary":null,"release_url":null,"skipped_version":null,"title":"Mosquitto broker","update_percentage":null,"entity_picture":"/api/hassio/addons/core_mosquitto/icon","friendly_name":"Mosquitto broker Update","supported_features":29},"last_changed":"2026-01-09T14:15:01.079993+00:00","last_reported":"2026-01-09T14:25:00.767110+00:00","last_updated":"2026-01-09T14:15:01.079993+00:00","context":{"id":"01KEHHRMPQ05HJRW535XJD4V02","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.zigbee2mqtt_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.7.2-1","in_progress":false,"latest_version":"2.7.2-1","release_summary":null,"release_url":null,"skipped_version":null,"title":"Zigbee2MQTT","update_percentage":null,"entity_picture":"/api/hassio/addons/45df7312_zigbee2mqtt/icon","friendly_name":"Zigbee2MQTT Update","supported_features":29},"last_changed":"2026-01-09T13:35:01.004559+00:00","last_reported":"2026-01-09T13:40:01.081648+00:00","last_updated":"2026-01-09T13:35:01.004559+00:00","context":{"id":"01KEHFFCWCQ3NHTRZHVAGESCMC","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.zigbee2mqtt_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.7.2-1","in_progress":false,"latest_version":"2.7.2-1","release_summary":null,"release_url":null,"skipped_version":null,"title":"Zigbee2MQTT","update_percentage":null,"entity_picture":"/api/hassio/addons/45df7312_zigbee2mqtt/icon","friendly_name":"Zigbee2MQTT Update","supported_features":29},"last_changed":"2026-01-09T14:15:01.080117+00:00","last_reported":"2026-01-09T14:25:00.767125+00:00","last_updated":"2026-01-09T14:15:01.080117+00:00","context":{"id":"01KEHHRMPRE0A8JBF0TAP6BG3N","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.duck_dns_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"1.26.0","in_progress":false,"latest_version":"1.26.0","release_summary":null,"release_url":null,"skipped_version":null,"title":"Duck DNS","update_percentage":null,"entity_picture":"/api/hassio/addons/core_duckdns/icon","friendly_name":"Duck DNS Update","supported_features":29},"last_changed":"2026-01-09T13:35:01.004693+00:00","last_reported":"2026-01-09T13:40:01.081662+00:00","last_updated":"2026-01-09T13:35:01.004693+00:00","context":{"id":"01KEHFFCWCWDX9TXNS46WYVH1Q","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.duck_dns_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"1.26.0","in_progress":false,"latest_version":"1.26.0","release_summary":null,"release_url":null,"skipped_version":null,"title":"Duck DNS","update_percentage":null,"entity_picture":"/api/hassio/addons/core_duckdns/icon","friendly_name":"Duck DNS Update","supported_features":29},"last_changed":"2026-01-09T14:15:01.080239+00:00","last_reported":"2026-01-09T14:25:00.767139+00:00","last_updated":"2026-01-09T14:15:01.080239+00:00","context":{"id":"01KEHHRMPRV894YBF6A61PP68W","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.influxdb_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"5.0.2","in_progress":false,"latest_version":"5.0.2","release_summary":null,"release_url":null,"skipped_version":null,"title":"InfluxDB","update_percentage":null,"entity_picture":"/api/hassio/addons/a0d7b954_influxdb/icon","friendly_name":"InfluxDB Update","supported_features":29},"last_changed":"2026-01-09T13:35:01.004816+00:00","last_reported":"2026-01-09T13:40:01.081676+00:00","last_updated":"2026-01-09T13:35:01.004816+00:00","context":{"id":"01KEHFFCWC8QQV2G12KHWEY6Y9","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.influxdb_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"5.0.2","in_progress":false,"latest_version":"5.0.2","release_summary":null,"release_url":null,"skipped_version":null,"title":"InfluxDB","update_percentage":null,"entity_picture":"/api/hassio/addons/a0d7b954_influxdb/icon","friendly_name":"InfluxDB Update","supported_features":29},"last_changed":"2026-01-09T14:15:01.080359+00:00","last_reported":"2026-01-09T14:25:00.767154+00:00","last_updated":"2026-01-09T14:15:01.080359+00:00","context":{"id":"01KEHHRMPRQV8WJFN6E6DVV4BY","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.grafana_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"12.1.0","in_progress":false,"latest_version":"12.1.0","release_summary":null,"release_url":null,"skipped_version":null,"title":"Grafana","update_percentage":null,"entity_picture":"/api/hassio/addons/a0d7b954_grafana/icon","friendly_name":"Grafana Update","supported_features":29},"last_changed":"2026-01-09T13:35:01.005024+00:00","last_reported":"2026-01-09T13:40:01.081689+00:00","last_updated":"2026-01-09T13:35:01.005024+00:00","context":{"id":"01KEHFFCWDAX44XFW86KB62PKB","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.grafana_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"12.1.0","in_progress":false,"latest_version":"12.1.0","release_summary":null,"release_url":null,"skipped_version":null,"title":"Grafana","update_percentage":null,"entity_picture":"/api/hassio/addons/a0d7b954_grafana/icon","friendly_name":"Grafana Update","supported_features":29},"last_changed":"2026-01-09T14:15:01.080478+00:00","last_reported":"2026-01-09T14:25:00.767167+00:00","last_updated":"2026-01-09T14:15:01.080478+00:00","context":{"id":"01KEHHRMPR1N4C56BWFTZS1EJT","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
-      "state": {"entity_id":"update.home_assistant_operating_system_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"16.3","in_progress":false,"latest_version":"16.3","release_summary":null,"release_url":"https://github.com/home-assistant/operating-system/releases/tag/16.3","skipped_version":null,"title":"Home Assistant Operating System","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Operating System Update","supported_features":11},"last_changed":"2026-01-09T13:35:01.005301+00:00","last_reported":"2026-01-09T13:40:01.081725+00:00","last_updated":"2026-01-09T13:35:01.005301+00:00","context":{"id":"01KEHFFCWDR5S3THMJ3BNKE2PD","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.studio_code_server_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"6.0.1","in_progress":false,"latest_version":"6.0.1","release_summary":null,"release_url":null,"skipped_version":null,"title":"Studio Code Server","update_percentage":null,"entity_picture":"/api/hassio/addons/a0d7b954_vscode/icon","friendly_name":"Studio Code Server Update","supported_features":29},"last_changed":"2026-01-09T14:15:01.080683+00:00","last_reported":"2026-01-09T14:25:00.767180+00:00","last_updated":"2026-01-09T14:15:01.080683+00:00","context":{"id":"01KEHHRMPR9X80SEM8EHZT7GGE","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2026-01-09T13:59:46.962987+00:00"
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
+    },
+    {
+      "state": {"entity_id":"update.home_assistant_operating_system_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"16.3","in_progress":false,"latest_version":"16.3","release_summary":null,"release_url":"https://github.com/home-assistant/operating-system/releases/tag/16.3","skipped_version":null,"title":"Home Assistant Operating System","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Operating System Update","supported_features":11},"last_changed":"2026-01-09T14:15:01.080939+00:00","last_reported":"2026-01-09T14:25:00.767218+00:00","last_updated":"2026-01-09T14:15:01.080939+00:00","context":{"id":"01KEHHRMPRY481STCXGPH7YNGW","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2026-01-09T14:29:46.982684+00:00"
     },
     {
       "state": {"entity_id":"button.shellypstripg4_98a3167c0e30_neu_starten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Steckerleiste Neu starten"},"last_changed":"2026-01-09T13:11:11.772897+00:00","last_reported":"2026-01-09T13:12:33.958846+00:00","last_updated":"2026-01-09T13:12:33.958846+00:00","context":{"id":"01KEHE69D619YD2RKRQX6NDQXT","parent_id":null,"user_id":null}},
