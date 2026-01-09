@@ -39,7 +39,7 @@
         "presence_detection_options": "both",
         "ai_interference_source_selfidentification": "OFF",
         "ai_sensitivity_adaptive": "ON",
-        "illuminance": 6,
+        "illuminance": 3,
         "humidity": 35,
         "temperature": 23.68,
         "temp_and_humidity_sampling": "low",
