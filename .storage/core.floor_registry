@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "minor_version": 3,
+  "key": "core.floor_registry",
+  "data": {
+    "floors": [
+      {
+        "aliases": [
+          "Erdgeschoss"
+        ],
+        "floor_id": "erdgeschoss",
+        "icon": "mdi:home-floor-g",
+        "level": 0,
+        "name": "Erdgeschoss",
+        "created_at": "2026-01-09T09:51:56.856228+00:00",
+        "modified_at": "2026-01-09T09:51:56.856232+00:00"
+      },
+      {
+        "aliases": [
+          "Stock",
+          "Oben"
+        ],
+        "floor_id": "obergeschoss",
+        "icon": "mdi:home-floor-1",
+        "level": 1,
+        "name": "Obergeschoss",
+        "created_at": "2026-01-09T13:09:45.018234+00:00",
+        "modified_at": "2026-01-09T13:09:45.018238+00:00"
+      }
+    ]
+  }
+}

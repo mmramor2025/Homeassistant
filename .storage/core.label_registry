@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "core.label_registry",
+  "data": {
+    "labels": [
+      {
+        "color": null,
+        "description": null,
+        "icon": null,
+        "label_id": "room",
+        "name": "Room",
+        "created_at": "2026-01-09T09:54:06.736594+00:00",
+        "modified_at": "2026-01-09T09:54:06.736597+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+version: 4
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://core-mosquitto:1883
+  user: addons
+  password: ai4zahz9zoh6yu7pei5oocoN0angie3LidieCh4naic1hocooyahDeiNg9oobae1
+serial:
+  adapter: zstack
+  baudrate: 115200
+  rtscts: false
+  port: /dev/ttyUSB0
+advanced:
+  log_level: info
+  channel: 11
+  network_key:
+    - 75
+    - 105
+    - 232
+    - 22
+    - 108
+    - 66
+    - 186
+    - 230
+    - 47
+    - 155
+    - 240
+    - 55
+    - 88
+    - 159
+    - 50
+    - 208
+  pan_id: 8016
+  ext_pan_id:
+    - 163
+    - 118
+    - 192
+    - 18
+    - 25
+    - 135
+    - 22
+    - 144
+frontend:
+  enabled: true
+  port: 8099
+homeassistant:
+  enabled: true
+devices:
+  '0x54ef4410015818e8':
+    friendly_name: Vorraum EG Presence Melder

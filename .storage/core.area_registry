@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "minor_version": 9,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "aliases": [],
+        "floor_id": "erdgeschoss",
+        "humidity_entity_id": null,
+        "icon": "mdi:sofa",
+        "id": "wohnzimmer",
+        "labels": [],
+        "name": "Wohnzimmer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T09:20:52.288581+00:00",
+        "modified_at": "2026-01-09T09:51:56.867573+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "erdgeschoss",
+        "humidity_entity_id": null,
+        "icon": "mdi:stove",
+        "id": "kuche",
+        "labels": [],
+        "name": "Küche",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T09:20:52.288717+00:00",
+        "modified_at": "2026-01-09T09:51:56.867929+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "obergeschoss",
+        "humidity_entity_id": null,
+        "icon": "mdi:bed",
+        "id": "schlafzimmer",
+        "labels": [],
+        "name": "Schlafzimmer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T09:20:52.288768+00:00",
+        "modified_at": "2026-01-09T13:09:45.025292+00:00"
+      },
+      {
+        "aliases": [
+          "Arbeitszimmer",
+          "Büro"
+        ],
+        "floor_id": "erdgeschoss",
+        "humidity_entity_id": null,
+        "icon": "mdi:laptop",
+        "id": "arbeitszimmer",
+        "labels": [
+          "room"
+        ],
+        "name": "Arbeitszimmer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T09:54:24.306591+00:00",
+        "modified_at": "2026-01-09T09:54:24.306596+00:00"
+      },
+      {
+        "aliases": [
+          "Garderobe",
+          "Eingang"
+        ],
+        "floor_id": "erdgeschoss",
+        "humidity_entity_id": null,
+        "icon": "mdi:door",
+        "id": "vorraum_eg",
+        "labels": [
+          "room"
+        ],
+        "name": "Vorraum EG",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T09:55:24.170667+00:00",
+        "modified_at": "2026-01-09T09:55:24.170671+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "erdgeschoss",
+        "humidity_entity_id": null,
+        "icon": "mdi:car",
+        "id": "garage",
+        "labels": [
+          "room"
+        ],
+        "name": "Garage",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T11:48:17.129443+00:00",
+        "modified_at": "2026-01-09T11:48:17.129446+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "obergeschoss",
+        "humidity_entity_id": null,
+        "icon": "mdi:washing-machine",
+        "id": "waschkuche",
+        "labels": [
+          "room"
+        ],
+        "name": "Waschküche",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T13:09:53.604478+00:00",
+        "modified_at": "2026-01-09T13:09:53.604481+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "vince",
+        "labels": [],
+        "name": "Vince",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T13:13:34.834183+00:00",
+        "modified_at": "2026-01-09T13:13:34.834186+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "maja",
+        "labels": [],
+        "name": "Maja",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T13:14:11.186888+00:00",
+        "modified_at": "2026-01-09T13:14:11.186891+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "esszimmer",
+        "labels": [],
+        "name": "Esszimmer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2026-01-09T13:14:49.669368+00:00",
+        "modified_at": "2026-01-09T13:14:49.669372+00:00"
+      }
+    ]
+  }
+}
