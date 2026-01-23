@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "energy",
+  "data": {
+    "energy_sources": [
+      {
+        "type": "grid",
+        "flow_from": [
+          {
+            "stat_energy_from": "sensor.poolhaus_smart_meter_ts_65a_3_bezogene_wirkenergie",
+            "stat_cost": null,
+            "entity_energy_price": null,
+            "number_energy_price": 0.144
+          },
+          {
+            "stat_energy_from": "sensor.heizung_smart_meter_ts_65a_3_bezogene_wirkenergie",
+            "stat_cost": null,
+            "entity_energy_price": null,
+            "number_energy_price": 0.144
+          }
+        ],
+        "flow_to": [
+          {
+            "stat_energy_to": "sensor.heizung_smart_meter_ts_65a_3_eingespeiste_wirkenergie",
+            "stat_compensation": null,
+            "entity_energy_price": null,
+            "number_energy_price": 0.09
+          },
+          {
+            "stat_energy_to": "sensor.poolhaus_smart_meter_ts_65a_3_eingespeiste_wirkenergie",
+            "stat_compensation": null,
+            "entity_energy_price": null,
+            "number_energy_price": 0.09
+          }
+        ],
+        "cost_adjustment_day": 0.0,
+        "power": [
+          {
+            "stat_rate": "sensor.haus_solarnet_leistung_verbrauch"
+          },
+          {
+            "stat_rate": "sensor.heizung_solarnet_leistung_netzbezug"
+          }
+        ]
+      },
+      {
+        "type": "solar",
+        "stat_energy_from": "sensor.heizung_energie_gesamt",
+        "config_entry_solar_forecast": null,
+        "stat_rate": "sensor.heizung_solarnet_pv_leistung"
+      },
+      {
+        "type": "solar",
+        "stat_energy_from": "sensor.poolhaus_energie_gesamt",
+        "config_entry_solar_forecast": null,
+        "stat_rate": "sensor.haus_solarnet_pv_leistung"
+      }
+    ],
+    "device_consumption": [],
+    "device_consumption_water": []
+  }
+}

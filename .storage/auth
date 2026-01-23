@@ -33,7 +33,18 @@
         ],
         "is_owner": true,
         "is_active": true,
-        "name": "MramorHome",
+        "name": "Michael Mramor",
+        "system_generated": false,
+        "local_only": false
+      },
+      {
+        "id": "2f560dd16fdf4da78e73a9c792b9634a",
+        "group_ids": [
+          "system-admin"
+        ],
+        "is_owner": false,
+        "is_active": true,
+        "name": "MAC",
         "system_generated": false,
         "local_only": false
       }
@@ -60,6 +71,15 @@
         "auth_provider_id": null,
         "data": {
           "username": "mike"
+        }
+      },
+      {
+        "id": "de6a1ddcf92f479bb5707b94b27850b5",
+        "user_id": "2f560dd16fdf4da78e73a9c792b9634a",
+        "auth_provider_type": "homeassistant",
+        "auth_provider_id": null,
+        "data": {
+          "username": "mac"
         }
       }
     ],
@@ -92,7 +112,7 @@
         "access_token_expiration": 1800.0,
         "token": "6052ec13159a47d1bc3aba3a4866610660ef4a9a7e495ecf3d225330665ffee53fd5f2f58a5e6f2d88bc6e00967ff0d4e7c03f0f7a7a51033421c7a207d0cc94",
         "jwt_key": "56548709132c186634c37be2ac54e59ad968e3e87564d86fca5803b465c716ae8292016704c2d5fd8ea31f7ee006ddf6c653fb9caa4e7cf7e2675e6642efda3c",
-        "last_used_at": "2026-01-09T14:15:43.711792+00:00",
+        "last_used_at": "2026-01-23T16:01:28.487294+00:00",
         "last_used_ip": "172.30.32.2",
         "expire_at": null,
         "credential_id": null,
@@ -109,9 +129,43 @@
         "access_token_expiration": 1800.0,
         "token": "e328e42e13d6fa39272860ac830d5b9ff40fdbc9b9959cd0dab474070450846391db22b523a906dd3c4d131c63d49f6b46fa1b27826105106740bbe05377645f",
         "jwt_key": "7fb596edbd6c77d9012774e0da31e6fb9967d3e5408b189f05f8fe459abbd67652f1a59085c342cdb4641c5fa753fb2c52e183ce828b6a256de77233bc7decf3",
-        "last_used_at": "2026-01-09T14:28:08.197703+00:00",
+        "last_used_at": "2026-01-23T15:07:18.395465+00:00",
         "last_used_ip": "192.168.0.178",
-        "expire_at": 1775744888.197703,
+        "expire_at": 1776956838.395465,
+        "credential_id": "c8c77081316e452ab9394ef94ce0d000",
+        "version": "2026.1.0"
+      },
+      {
+        "id": "3d8211d8dc7e4e22ba80378777435a40",
+        "user_id": "29dc3b36ed904466a5eb861835a473cd",
+        "client_id": "http://192.168.0.110:8123/",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2026-01-10T08:35:28.469296+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "ce9ca4c1dc8d3dbd659bd1690e7d2d1e96b3545ab45ef753eb284d0ed0421c98ba7120158c08323ce923ee53fd604079c384d2abcdfd3fa27a8a067248830bcf",
+        "jwt_key": "5194df3571a5fa6005343675df1f2fa41e55789cb07825c6d83fef1c3092871bddcc1ee948636af33d8f1470a434d9423afe3ef0ab9493c6480dbab9ea96105a",
+        "last_used_at": "2026-01-21T20:00:16.068401+00:00",
+        "last_used_ip": "192.168.0.125",
+        "expire_at": 1776801616.068401,
+        "credential_id": "c8c77081316e452ab9394ef94ce0d000",
+        "version": "2026.1.0"
+      },
+      {
+        "id": "c06d2e34f3a345e2842d04e92458f9c5",
+        "user_id": "29dc3b36ed904466a5eb861835a473cd",
+        "client_id": "https://home-assistant.io/iOS",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2026-01-22T11:34:20.356576+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "19a0fe0eb7695f0c350d6184fc5b1c012ddcd04d0bc1095555649cf12234979c43fd0c739d924fcd55e77067746be27c0d02f06837d1d35825d4c4a3b71fba2f",
+        "jwt_key": "21d0489e4b69a677c9dcc2f44294f22c3576c5e88e70a1bbfd142c5ece55c19c628ce1cb70cb796bf38c0473d093e86655d8df0972df9b272d778188b155d79d",
+        "last_used_at": "2026-01-23T15:51:51.530988+00:00",
+        "last_used_ip": "192.168.0.125",
+        "expire_at": 1776959511.530988,
         "credential_id": "c8c77081316e452ab9394ef94ce0d000",
         "version": "2026.1.0"
       }

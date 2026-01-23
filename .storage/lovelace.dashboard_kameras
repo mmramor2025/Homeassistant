@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.dashboard_kameras",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "header": {
+            "card": {
+              "type": "markdown",
+              "text_only": true,
+              "content": "# Hallo {{ user }} \nHier siehst du die Kameras im MramorHome ✨"
+            }
+          },
+          "sections": [
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Küche",
+                  "heading_style": "title"
+                },
+                {
+                  "type": "custom:webrtc-camera",
+                  "entity": "camera.cam_kuche",
+                  "poster": "image.cam_kuche_event_image",
+                  "ui": true,
+                  "shortcuts": [
+                    {
+                      "name": "Play",
+                      "icon": "mdi:play",
+                      "service": "camera.turn_on",
+                      "service_data": {
+                        "entity_id": "camera.cam_kuche"
+                      }
+                    },
+                    {
+                      "name": "Stop",
+                      "icon": "mdi:stop",
+                      "service": "camera.turn_off",
+                      "service_data": {
+                        "entity_id": "camera.cam_kuche"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

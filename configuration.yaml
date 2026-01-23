@@ -9,26 +9,21 @@ frontend:
 automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
+template: !include templates.yaml
 
 # settings for InfluxDB
 influxdb:
+  host: 192.168.0.110
+  port: 8086
+  database: homeassistant
   username: !secret influx_user
   password: !secret influx_pw
+  ssl: false
+  verify_ssl: false
+  max_retries: 3
   tags:
     source: HA
   tags_attributes:
     - friendly_name
   default_measurement: state
-  exclude:
-    entities:
-      - zone.home
-    domains:
-      - persistent_notification
-      - person
-  include:
-    domains:
-      - sensor
-      - binary_sensor
-      - sun
-      - light
-      - cover
+  

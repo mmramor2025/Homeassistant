@@ -1,1 +1,142 @@
-[]
+- id: '1768277444295'
+  alias: Licht Esszimmer einNeue Automation
+  description: ''
+  triggers:
+  - type: turned_on
+    device_id: f9492f578358b3f6c53400182c379464
+    entity_id: b20b6cb1ba68b2116c2a714b80c6c655
+    domain: binary_sensor
+    trigger: device
+  conditions: []
+  actions:
+  - action: light.turn_on
+    metadata: {}
+    target:
+      entity_id: light.esstisch
+    data: {}
+  mode: single
+- id: '1768277696200'
+  alias: Licht Esszimmer aus
+  description: ''
+  triggers:
+  - type: not_occupied
+    device_id: f9492f578358b3f6c53400182c379464
+    entity_id: a72f6aecf90bc828f85d022ae1a281a1
+    domain: binary_sensor
+    trigger: device
+  conditions: []
+  actions:
+  - action: light.turn_off
+    metadata: {}
+    target:
+      entity_id: light.esstisch
+    data: {}
+  mode: single
+- id: '1768968157314'
+  alias: Presence Vorraum EG ein
+  description: ''
+  triggers:
+  - type: turned_on
+    device_id: 8d218a675722738716d814761e7145bc
+    entity_id: adafca0b78597549bb27afe9b6a59384
+    domain: binary_sensor
+    trigger: device
+  conditions: []
+  actions:
+  - action: light.turn_on
+    metadata: {}
+    data: {}
+    target:
+      area_id: vorraum_eg
+  mode: single
+- id: '1768968245817'
+  alias: Presence Vorraum EG aus
+  description: ''
+  triggers:
+  - type: not_occupied
+    device_id: 8d218a675722738716d814761e7145bc
+    entity_id: 536d9479301b9c7b3061d8023e16ddd9
+    domain: binary_sensor
+    trigger: device
+  conditions: []
+  actions:
+  - action: light.turn_off
+    metadata: {}
+    data: {}
+    target:
+      area_id: vorraum_eg
+  mode: single
+- id: '1769023268212'
+  alias: Heizung Bad OG ein
+  description: ''
+  triggers:
+  - trigger: time
+    at: 05:30:00
+    weekday:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+  conditions: []
+  actions:
+  - action: switch.turn_on
+    metadata: {}
+    target:
+      entity_id: switch.steckdose_bad_og
+    data: {}
+  mode: single
+- id: '1769023886982'
+  alias: Bad OG Ausschalten
+  description: ''
+  triggers:
+  - trigger: time
+    at: 07:00:00
+    weekday:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+  conditions: []
+  actions:
+  - action: switch.turn_off
+    metadata: {}
+    target:
+      entity_id: switch.steckdose_bad_og
+    data: {}
+  mode: single
+- id: '1769025815044'
+  alias: Licht Speis ein
+  description: ''
+  triggers:
+  - trigger: state
+    entity_id:
+    - binary_sensor.knx_bewegung_speis
+    to:
+    - 'on'
+  conditions: []
+  actions:
+  - action: light.turn_on
+    metadata: {}
+    target:
+      entity_id: light.speis
+    data: {}
+  mode: single
+- id: '1769026050923'
+  alias: Licht Speis aus
+  description: ''
+  triggers:
+  - trigger: state
+    entity_id:
+    - binary_sensor.knx_bewegung_speis
+    to:
+    - 'off'
+  conditions: []
+  actions:
+  - action: light.turn_off
+    metadata: {}
+    target:
+      entity_id: light.speis
+    data: {}
+  mode: single
